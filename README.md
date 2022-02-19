@@ -1,2 +1,2 @@
 # school-shit
-napicu kod ktory drzi pokope len silou vole a ostatne veci do skoly
+napicu kod ktory drzi pokope len silou vole alebo su kradnute a ostatne veci do skoly
