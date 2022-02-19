@@ -1,0 +1,5 @@
+D:/BPC-KOM/240948/PC1T/prestupnyrok/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/BPC-KOM/240948/PC1T/prestupnyrok/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/BPC-KOM/240948/PC1T/prestupnyrok/out/build/x64-Debug/prestupnyrok/CMakeFiles/prestupnyrok.dir
+D:/BPC-KOM/240948/PC1T/prestupnyrok/out/build/x64-Debug/prestupnyrok/CMakeFiles/edit_cache.dir
+D:/BPC-KOM/240948/PC1T/prestupnyrok/out/build/x64-Debug/prestupnyrok/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+﻿'prestupnyrok.exe' (Win32): Loaded 'D:\BPC-KOM\240948\PC1T\prestupnyrok\out\build\x64-Debug\prestupnyrok\prestupnyrok.exe'. Symbols loaded.
+'prestupnyrok.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'prestupnyrok.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'prestupnyrok.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'prestupnyrok.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'prestupnyrok.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x3af0 has exited with code 0 (0x0).
+'prestupnyrok.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'prestupnyrok.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'prestupnyrok.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x3044 has exited with code 0 (0x0).
+The thread 0x244c has exited with code 0 (0x0).
+The program '[7532] prestupnyrok.exe' has exited with code 0 (0x0).
