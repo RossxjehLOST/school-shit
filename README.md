@@ -1,2 +1,2 @@
-# pc1t
-napicu kod ktory drzi pokope len silou vole alebo je kradnuty
+# PC1T
+Shitty code that barely runs or code that is stolen
